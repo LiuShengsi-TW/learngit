@@ -1,3 +1,5 @@
+Git tracks changes?????
+
 Git has a mutable index called stage!!!
 I need add something new, for example: The weather today is so fine, right? 
 
