@@ -1,3 +1,4 @@
+Git has a mutable index called stage!!!
 I need add something new, for example: The weather today is so fine, right? 
 
 Git is a version control system.
